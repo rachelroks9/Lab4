@@ -1,0 +1,87 @@
+body { /*sets font for entire document*/
+    font-family: Arial, Helvetica, sans-serif; 
+}
+
+#myplaylist{
+  border-radius: 150px;
+  border-style: double;
+  overflow: hidden;
+}
+
+#trackname {
+  float: left;
+  padding-left: 15px;
+  padding-top: 25px;
+  font-variant: small-caps;
+}
+
+#artist {
+  float: left;
+  padding-top: 25px;
+  font-weight: bold;
+}
+
+#albumname {
+  float: left;
+  padding-top: 25px;
+  font-style: italic;
+}
+
+#releasedate {
+  float: left;
+  padding-top: 25px;
+  font-size: 90%
+}
+
+#genre {
+	float: left;
+	padding-top: 25px;
+	font-size: 90%
+}
+
+#website {
+	float: left;
+	padding-top: 25px;
+}
+
+#cover {
+	float: left;
+	padding-top: 25px;
+    padding-left: 25px;
+}
+
+ul li {
+	height: 125px;
+	width: 110px;
+	list-style-type: none;
+}
+li:first-child { 
+  font-weight: bold;
+  font-variant: normal;
+  height: 60px;
+}
+
+#genre li { 
+	height: 125px;
+	width: 110px;
+	list-style-type: square;
+}
+
+#genre li:first-child { 
+  font-weight: bold;
+  font-variant: normal;
+  list-style-type: none;
+  height: 35px;
+  font-size:120%;
+  padding-bottom: 25px;
+}
+#releasedate li { 
+  height: 125px;
+  width: 110px;
+}
+#releasedate li:first-child { 
+  font-variant: normal;
+  height: 35px;
+  font-size: 120%;
+  padding-bottom: 25px;
+}

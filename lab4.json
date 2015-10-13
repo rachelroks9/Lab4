@@ -1,0 +1,48 @@
+{
+  "myplaylist":
+  [{
+    "title": "Title",
+    "artist": "Artist",
+    "album": "Album",
+    "coverart": "",
+    "date": "Date",
+    "site": "Website",
+    "genres": "Genre"
+  },
+  {
+    "title": "Learning to Breathe",
+    "artist": "Switchfoot",
+    "album": "Learning to Breathe",
+    "coverart": "learningtobreathe.jpg",
+    "date": "September 26, 2000",
+    "site": "Switchfoot.com",
+    "genres": "Alternative Rock"
+  },
+  {
+    "title": "A Thousand Miles",
+    "artist": "Vanessa Carlton",
+    "album": "Be Not Nobody",
+    "coverart": "benotnobody.jpeg",
+    "date": "April 30, 2002",
+    "site": "VanessaCarlton.com",
+    "genres": "Pop"
+  },
+  {
+    "title": "Iris",
+    "artist": "The Goo Goo Dolls",
+    "album": "Dizzy Up the Girl",
+    "coverart": "dizzyupthegirl.png",
+    "date": "September 22, 1998",
+    "site": "GooGooDolls.com",
+    "genres": "Alternative Rock"
+  },
+  {
+    "title": "Unwell",
+    "artist": "Matchbox Twenty",
+    "album": "More Than You Think You Are",
+    "coverart": "morethanyouthinkyouare.jpg",
+    "date": "November 19, 2002",
+    "site": "MatchboxTwenty.com",
+    "genres": "Folk Rock"
+  }]
+}
