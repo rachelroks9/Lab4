@@ -30,13 +30,13 @@ body { /*sets font for entire document*/
 #releasedate {
   float: left;
   padding-top: 25px;
-  font-size: 90%
+  font-size: 80%;
 }
 
 #genre {
 	float: left;
 	padding-top: 25px;
-	font-size: 90%
+	font-size: 80%;
 }
 
 #website {
@@ -47,7 +47,7 @@ body { /*sets font for entire document*/
 #cover {
 	float: left;
 	padding-top: 25px;
-    padding-left: 25px;
+  padding-left: 25px;
 }
 
 ul li {
@@ -72,7 +72,8 @@ li:first-child {
   font-variant: normal;
   list-style-type: none;
   height: 35px;
-  font-size:120%;
+  font-size:130%;
+  margin-top: 20px;
   padding-bottom: 25px;
 }
 #releasedate li { 
@@ -82,6 +83,7 @@ li:first-child {
 #releasedate li:first-child { 
   font-variant: normal;
   height: 35px;
-  font-size: 120%;
+  font-size: 130%;
+  margin-top: 20px;
   padding-bottom: 25px;
 }
