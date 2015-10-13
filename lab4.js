@@ -17,8 +17,7 @@ $('#coverart').click(function () {
       var genre = '<li>Genre</li>';
       var website = '<li>Website</li>';
       var cover = '<li>Album Cover</li>';
-      /* for(var i=0; i < responseData.myplaylist.length; i++) {} */
-      /* responseData.myplaylist.forEach(function(item) {}); */
+      
       $.each(responseData.myplaylist, function (i, item) {
         if (item.title == "Iris") {
           trackname += '<li><font color="green">' + item.title + '</font></li>';
